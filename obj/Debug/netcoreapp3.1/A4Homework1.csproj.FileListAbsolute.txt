@@ -1,0 +1,13 @@
+C:\Users\kavan\Desktop\My Documents\School\.net database\A4Homework1\bin\Debug\netcoreapp3.1\A4Homework1.exe
+C:\Users\kavan\Desktop\My Documents\School\.net database\A4Homework1\bin\Debug\netcoreapp3.1\A4Homework1.deps.json
+C:\Users\kavan\Desktop\My Documents\School\.net database\A4Homework1\bin\Debug\netcoreapp3.1\A4Homework1.runtimeconfig.json
+C:\Users\kavan\Desktop\My Documents\School\.net database\A4Homework1\bin\Debug\netcoreapp3.1\A4Homework1.runtimeconfig.dev.json
+C:\Users\kavan\Desktop\My Documents\School\.net database\A4Homework1\bin\Debug\netcoreapp3.1\A4Homework1.dll
+C:\Users\kavan\Desktop\My Documents\School\.net database\A4Homework1\bin\Debug\netcoreapp3.1\A4Homework1.pdb
+C:\Users\kavan\Desktop\My Documents\School\.net database\A4Homework1\obj\Debug\netcoreapp3.1\A4Homework1.csprojAssemblyReference.cache
+C:\Users\kavan\Desktop\My Documents\School\.net database\A4Homework1\obj\Debug\netcoreapp3.1\A4Homework1.AssemblyInfoInputs.cache
+C:\Users\kavan\Desktop\My Documents\School\.net database\A4Homework1\obj\Debug\netcoreapp3.1\A4Homework1.AssemblyInfo.cs
+C:\Users\kavan\Desktop\My Documents\School\.net database\A4Homework1\obj\Debug\netcoreapp3.1\A4Homework1.csproj.CoreCompileInputs.cache
+C:\Users\kavan\Desktop\My Documents\School\.net database\A4Homework1\obj\Debug\netcoreapp3.1\A4Homework1.dll
+C:\Users\kavan\Desktop\My Documents\School\.net database\A4Homework1\obj\Debug\netcoreapp3.1\A4Homework1.pdb
+C:\Users\kavan\Desktop\My Documents\School\.net database\A4Homework1\obj\Debug\netcoreapp3.1\A4Homework1.genruntimeconfig.cache
