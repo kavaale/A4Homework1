@@ -11,3 +11,6 @@ C:\Users\kavan\Desktop\My Documents\School\.net database\A4Homework1\obj\Debug\n
 C:\Users\kavan\Desktop\My Documents\School\.net database\A4Homework1\obj\Debug\netcoreapp3.1\A4Homework1.dll
 C:\Users\kavan\Desktop\My Documents\School\.net database\A4Homework1\obj\Debug\netcoreapp3.1\A4Homework1.pdb
 C:\Users\kavan\Desktop\My Documents\School\.net database\A4Homework1\obj\Debug\netcoreapp3.1\A4Homework1.genruntimeconfig.cache
+C:\Users\kavan\Desktop\My Documents\School\.net database\A4Homework1\bin\Debug\netcoreapp3.1\Json.Net.dll
+C:\Users\kavan\Desktop\My Documents\School\.net database\A4Homework1\obj\Debug\netcoreapp3.1\A4Homework1.csproj.CopyComplete
+C:\Users\kavan\Desktop\My Documents\School\.net database\A4Homework1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

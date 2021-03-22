@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "8lqEAk5ZlhBz9YJZZ5HMzEW4H8mbochob5sOrngqp+fkMrt9tkvt4jVQHsd6lB+2sD2H68nh/bKsfu0ICigViw==",
+  "dgSpecHash": "iKphL3OVC9EzZjUYttyjeema1ZKIhMHuFyT8ccvomZhjuwel5Ba0yqhVEhvfIF8iOWViWmhXIhumEOf/ugLabQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\kavan\\Desktop\\My Documents\\School\\.net database\\A4Homework1\\A4Homework1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kavan\\.nuget\\packages\\json.net\\1.0.25\\json.net.1.0.25.nupkg.sha512",
+    "C:\\Users\\kavan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\kavan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
   "logs": []
 }
