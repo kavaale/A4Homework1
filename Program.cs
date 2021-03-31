@@ -98,7 +98,7 @@ namespace A4Homework1
             Show m = new Show();
             m.AddShow();
             int x=1;
-            string writer = m.writers[0];
+            String writer = m.writers[0];
             while(x<m.writers.Count){
                 writer = writer + "|" + m.writers[x];
                 x++;
@@ -115,7 +115,7 @@ namespace A4Homework1
             Video m = new Video();
             m.AddVideo();
             int x=1;
-            string region = m.regions[0];
+            String region = m.regions[0];
             while(x<m.regions.Count){
                 region = region + "|" + m.regions[x];
                 x++;
